@@ -1,5 +1,5 @@
 https://github.com/cubitect/cubiomes-viewer compiled for wasm  
-The only modification is the addition of coi-serviceworker.min.js for CORS on github pages
+The only modification is the addition of coi-serviceworker.min.js needed on github pages
 
 Generated with
 ```sh
